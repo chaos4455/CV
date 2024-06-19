@@ -1,2 +1,25 @@
-# Curr-culo
-Meu portfólio pessoal destacando minha expertise como Especialista em ChatGPT. Currículo, carta de apresentação, projetos, documentação e exemplos de aplicação do ChatGPT em diversos contextos. Aberto a feedback e contribuições. Entre em contato para oportunidades de colaboração!
+- 🏢 **Experiência Profissional**
+  - 🖥️ **Atak Sistemas**
+    - 📅 Período: 02/2024 - 03/2024 (1 mês)
+    - 👨‍💻 Cargo: Analista de infraestrutura Linux e VMware para ferramentas DevOps (GitLab)
+  - 💼 **NDS Consultoria e Informática**
+    - 📅 Período: 01/2024 - 02/2024 (1 mês)
+    - 👨‍💼 Cargo: Consultor de infraestrutura especialista Windows Server - Terminal Server - PowerShell - Windows Server
+  - 🏥 **Medicinal Farmácia de Manipulação**
+    - 📅 Período: 02/2019 - 10/2023 (4 anos e 8 meses)
+    - 👨‍💼 Cargo: Administrador de redes
+  - 🥤 **Coca Cola FEMSA - Hewlett Packard Enterprise (HPE)**
+    - 📅 Período: 12/2016 - 08/2017 (8 meses)
+    - 👨‍💼 Cargo: Auxiliar de informática
+  - 🛒 **Grupo Agneloni (Loja 26 Angeloni Maringá "Novo Centro")**
+    - 📅 Período: 11/2015 - 07/2016 (8 meses)
+    - 👨‍💼 Cargo: Auxiliar de informática
+  - ✈️ **GOL Linhas Aéreas - Stefanini**
+    - 📅 Período: 02/2013 - 06/2014 (1 ano e 4 meses)
+    - 👨‍💼 Cargo: Analista de suporte
+  - 🏥 **Hospital Santa Rita - Associação Beneficente Bom Samaritano**
+    - 📅 Período: 11/2011 - 08/2012 (9 meses)
+    - 👨‍💼 Cargo: Auxiliar de T.I
+  - 🌐 **Wnet Internet Provider**
+    - 📅 Período: 03/2010 - 08/2011 (1 ano e 5 meses)
+    - 👨‍💻 Cargo: Analista de suporte técnico
