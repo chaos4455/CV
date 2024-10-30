@@ -1,7 +1,11 @@
 # Elias Andrade - Experiência Profissional e Competências
 
-## 🏢 Experiência Profissional
+## 🏢 Experiência Profissional recente 
 
+ 🛠️ **Konecty**
+  - 📅 Período: 04/2024 - 05/2024 (2 meses)
+  - 👨‍💻 Cargo: DevOps para migração de 150 serviços do Docker Swarm para Kubernetes Services na DigitalOcean, utilizando GitOps e Argo CD ![Konecty](https://img.shields.io/badge/Konecty-DevOps_Migração_Kubernetes-blue)
+  - 
 - 🖥️ **Atak Sistemas**
   - 📅 Período: 02/2024 - 03/2024 (1 mês)
   - 👨‍💻 Cargo: Analista de infraestrutura Linux e VMware para ferramentas DevOps (GitLab) ![Atak Sistemas](https://img.shields.io/badge/Atak_Sistemas-Analista_Linux_and_VMware-blue)
@@ -85,6 +89,41 @@
   - 🌍 **AWS (Amazon Web Services)** ![AWS](https://img.shields.io/badge/AWS-Expert-brightgreen)
     - EC2 (Elastic Compute Cloud) ![EC2](https://img.shields.io/badge/EC2-Experienced-yellowgreen)
     - S3 (Simple Storage Service) ![S3](https://img.shields.io/badge/S3-Experienced-yellowgreen)
+
+- 💻 **Desenvolvimento e Arquitetura Full Stack**
+  - 🌐 **Frontend** ![Frontend](https://img.shields.io/badge/Frontend-Experienced-blue)
+    - HTML5 ![HTML5](https://img.shields.io/badge/HTML5-Experienced-blue)
+    - CSS3 ![CSS3](https://img.shields.io/badge/CSS3-Experienced-blue)
+    - Tailwind CSS ![Tailwind](https://img.shields.io/badge/Tailwind_CSS-Experienced-blue)
+    - React.js ![React.js](https://img.shields.io/badge/React.js-Advanced-blue)
+    - Next.js ![Next.js](https://img.shields.io/badge/Next.js-Advanced-blue)
+    - TypeScript ![TypeScript](https://img.shields.io/badge/TypeScript-Experienced-blue)
+
+  - ⚙️ **Backend** ![Backend](https://img.shields.io/badge/Backend-Experienced-yellowgreen)
+    - Python ![Python](https://img.shields.io/badge/Python-Experienced-yellowgreen)
+    - Flask ![Flask](https://img.shields.io/badge/Flask-Experienced-yellowgreen)
+    - FastAPI ![FastAPI](https://img.shields.io/badge/FastAPI-Experienced-yellowgreen)
+    - Node.js ![Node.js](https://img.shields.io/badge/Node.js-Experienced-yellowgreen)
+    - Express.js ![Express.js](https://img.shields.io/badge/Express.js-Experienced-yellowgreen)
+    - JWT Autenticação ![JWT](https://img.shields.io/badge/JWT_Autenticação-Experienced-yellowgreen)
+    - RESTful APIs ![RESTful APIs](https://img.shields.io/badge/RESTful_APIs-Experienced-yellowgreen)
+
+  - 🗄️ **Banco de Dados** ![Banco de Dados](https://img.shields.io/badge/Banco_de_Dados-Experienced-blue)
+    - SQLite ![SQLite](https://img.shields.io/badge/SQLite-Experienced-blue)
+    - MySQL ![MySQL](https://img.shields.io/badge/MySQL-Experienced-blue)
+    - MongoDB ![MongoDB](https://img.shields.io/badge/MongoDB-Experienced-blue)
+    - PostgreSQL ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-Experienced-blue)
+  
+  - 🛠️ **Ferramentas e Arquitetura Full Stack** ![Arquitetura](https://img.shields.io/badge/Arquitetura-Experienced-yellowgreen)
+    - Integração com APIs ![APIs](https://img.shields.io/badge/APIs-Experienced-yellowgreen)
+    - Design Patterns ![Design Patterns](https://img.shields.io/badge/Design_Patterns-Experienced-yellowgreen)
+    - CI/CD para Deploy de Aplicações Full Stack ![CI/CD Full Stack](https://img.shields.io/badge/CI_CD_Full_Stack-Experienced-yellowgreen)
+    - Testes Unitários e Integração Contínua ![Testes](https://img.shields.io/badge/Testes-Experienced-yellowgreen)
+
+  - 📲 **Desenvolvimento de Aplicações Web** ![Aplicações Web](https://img.shields.io/badge/Aplicações_Web-Advanced-blue)
+    - SPA (Single Page Applications) com React e Next.js ![SPA](https://img.shields.io/badge/SPA-Advanced-blue)
+    - Desenvolvimento de APIs REST e GraphQL ![APIs](https://img.shields.io/badge/APIs-Experienced-blue)
+    - Criação de Dashboards Interativos e Visualizações de Dados ![Dashboards](https://img.shields.io/badge/Dashboards-Experienced-blue)
 
 - 🛡️ **Segurança**
   - 🔒 **Políticas de Segurança** ![Segurança](https://img.shields.io/badge/Seguranca-Expert-brightgreen)
