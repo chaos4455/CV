@@ -5,7 +5,7 @@
  🛠️ **Konecty**
   - 📅 Período: 04/2024 - 05/2024 (2 meses)
   - 👨‍💻 Cargo: DevOps para migração de 150 serviços do Docker Swarm para Kubernetes Services na DigitalOcean, utilizando GitOps e Argo CD ![Konecty](https://img.shields.io/badge/Konecty-DevOps_Migração_Kubernetes-blue)
-  - 
+   
 - 🖥️ **Atak Sistemas**
   - 📅 Período: 02/2024 - 03/2024 (1 mês)
   - 👨‍💻 Cargo: Analista de infraestrutura Linux e VMware para ferramentas DevOps (GitLab) ![Atak Sistemas](https://img.shields.io/badge/Atak_Sistemas-Analista_Linux_and_VMware-blue)
@@ -89,6 +89,55 @@
   - 🌍 **AWS (Amazon Web Services)** ![AWS](https://img.shields.io/badge/AWS-Expert-brightgreen)
     - EC2 (Elastic Compute Cloud) ![EC2](https://img.shields.io/badge/EC2-Experienced-yellowgreen)
     - S3 (Simple Storage Service) ![S3](https://img.shields.io/badge/S3-Experienced-yellowgreen)
+- 🤖 **Inteligência Artificial e Machine Learning**
+  - 📊 **Análise de Dados e Estatística** ![Análise de Dados](https://img.shields.io/badge/Analise_de_Dados-Experienced-yellowgreen)
+    - Pandas ![Pandas](https://img.shields.io/badge/Pandas-Experienced-yellowgreen)
+    - NumPy ![NumPy](https://img.shields.io/badge/NumPy-Experienced-yellowgreen)
+    - Matplotlib ![Matplotlib](https://img.shields.io/badge/Matplotlib-Experienced-yellowgreen)
+    - Seaborn ![Seaborn](https://img.shields.io/badge/Seaborn-Experienced-yellowgreen)
+    - Plotly ![Plotly](https://img.shields.io/badge/Plotly-Experienced-yellowgreen)
+    - Dash ![Dash](https://img.shields.io/badge/Dash-Experienced-yellowgreen)
+
+  - 📈 **Técnicas de Machine Learning** ![Machine Learning](https://img.shields.io/badge/Machine_Learning-Experienced-yellowgreen)
+    - Regressão ![Regressão](https://img.shields.io/badge/Regressao-Experienced-yellowgreen)
+    - Análise Preditiva ![Análise Preditiva](https://img.shields.io/badge/Analise_Preditiva-Experienced-yellowgreen)
+    - Redes Neurais (CNN, DNN, QNN) ![Redes Neurais](https://img.shields.io/badge/Redes_Neurais-Experienced-yellowgreen)
+    - Processamento de Imagens ![Processamento de Imagens](https://img.shields.io/badge/Processamento_de_Imagens-Experienced-yellowgreen)
+    - Análise de Imagens ![Análise de Imagens](https://img.shields.io/badge/Analise_de_Imagens-Experienced-yellowgreen)
+  
+  - 🖼️ **Visão Computacional** ![Visão Computacional](https://img.shields.io/badge/Visao_Computacional-Experienced-yellowgreen)
+    - OpenCV ![OpenCV](https://img.shields.io/badge/OpenCV-Experienced-yellowgreen)
+    - PIL (Python Imaging Library) ![PIL](https://img.shields.io/badge/PIL-Experienced-yellowgreen)
+    - MobileNetV3 ![MobileNetV3](https://img.shields.io/badge/MobileNetV3-Experienced-yellowgreen)
+    - COCOv2 ![COCOv2](https://img.shields.io/badge/COCOv2-Experienced-yellowgreen)
+
+  - 🧠 **Modelos de Linguagem** ![Modelos de Linguagem](https://img.shields.io/badge/Modelos_de_Linguagem-Experienced-yellowgreen)
+    - ChatGPT ![ChatGPT](https://img.shields.io/badge/ChatGPT-Experienced-yellowgreen)
+    - Google Gemini ![Google Gemini](https://img.shields.io/badge/Google_Gemini-Experienced-yellowgreen)
+    - Facebook LLaMA ![Facebook LLaMA](https://img.shields.io/badge/Facebook_LLaMA-Experienced-yellowgreen)
+    - Stable Diffusion ![Stable Diffusion](https://img.shields.io/badge/Stable_Diffusion-Experienced-yellowgreen)
+    - Hugging Face ![Hugging Face](https://img.shields.io/badge/Hugging_Face-Experienced-yellowgreen)
+
+  - 🎧 **Geração de Áudio e Chatbots** ![Geração de Áudio](https://img.shields.io/badge/Geracao_de_Audio-Experienced-yellowgreen)
+    - Google TTS ![Google TTS](https://img.shields.io/badge/Google_TTS-Experienced-yellowgreen)
+    - Edge TTS ![Edge TTS](https://img.shields.io/badge/Edge_TTS-Experienced-yellowgreen)
+    - Desenvolvimento de Chatbots ![Chatbots](https://img.shields.io/badge/Chatbots-Experienced-yellowgreen)
+    - Copilots ![Copilots](https://img.shields.io/badge/Copilots-Experienced-yellowgreen)
+
+  - 🌐 **Projetos de Análise e Aplicações de IA** ![Projetos de IA](https://img.shields.io/badge/Projetos_de_IA-Experienced-yellowgreen)
+    - Análise de Risco ![Análise de Risco](https://img.shields.io/badge/Analise_de_Risco-Experienced-yellowgreen)
+    - Análise de Fraude ![Análise de Fraude](https://img.shields.io/badge/Analise_de_Fraude-Experienced-yellowgreen)
+    - Segmentação de Clientes ![Segmentação de Clientes](https://img.shields.io/badge/Segmentacao_de_Clientes-Experienced-yellowgreen)
+  
+  - 🚀 **Desenvolvimento e Deploy** ![Desenvolvimento e Deploy](https://img.shields.io/badge/Desenvolvimento_e_Deploy-Experienced-yellowgreen)
+    - Deploy de Modelos de Machine Learning localmente ![Deploy de Modelos](https://img.shields.io/badge/Deploy_de_Modelos-Experienced-yellowgreen)
+    - Criação de Frameworks próprios de IA ![Frameworks de IA](https://img.shields.io/badge/Frameworks_de_IA-Experienced-yellowgreen)
+
+  - 📚 **Pesquisa e Conhecimento Avançado** ![Pesquisa](https://img.shields.io/badge/Pesquisa-Experienced-yellowgreen)
+    - Estudos Diários e Leitura de Livros da Área ![Estudos Diários](https://img.shields.io/badge/Estudos_Diarios-Experienced-yellowgreen)
+    - Conhecimento Profundo em IA Generativa ![IA Generativa](https://img.shields.io/badge/IA_Generativa-Experienced-yellowgreen)
+    - Ecosistema de Agentes Autônomos ![Agentes Autônomos](https://img.shields.io/badge/Agentes_Autonomos-Experienced-yellowgreen)
+
 
 - 💻 **Desenvolvimento e Arquitetura Full Stack**
   - 🌐 **Frontend** ![Frontend](https://img.shields.io/badge/Frontend-Experienced-blue)
