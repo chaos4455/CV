@@ -7,7 +7,7 @@
 [![Download Portfólio Geral](https://img.shields.io/badge/⬇️%20Download%20PDF-purple?style=for-the-badge&logo=adobeacrobatreader&logoColor=white&labelColor=darkorchid&logoWidth=20)](https://github.com/chaos4455/CV/blob/main/2025/Portf%C3%B3lio%20de%20carreira%20-%20Elias%20Andrade.pdf)
 
 <!-- Pequena descrição com emojis -->
-✨ Currículo abrangente com foco na minha trajetória profissional e habilidades diversas. Ideal para uma visão geral da minha experiência.
+✨ Currículo abrangente com foco na minha trajetória profissional e habilidades diversas. 
 
 <br> <!-- Quebra de linha para espaçamento -->
 
@@ -29,7 +29,7 @@
 [![Download Analista Inovação CV](https://img.shields.io/badge/⬇️%20Download%20PDF-purple?style=for-the-badge&logo=adobeacrobatreader&logoColor=white&labelColor=darkorchid&logoWidth=20)](https://github.com/chaos4455/CV/blob/main/2025/Elias%20dos%20Santos%20de%20Andrade%20-%20Analista%20de%20inova%C3%A7%C3%A3o%20-%20Dados%20e%20Machine%20Learning%20(1).pdf)
 
 <!-- Pequena descrição com emojis -->
-🚀 Direcionado para Inovação, com ênfase em Dados e Machine Learning. Ideal para oportunidades que buscam soluções inovadoras baseadas em dados.
+🚀 Direcionado para Inovação, com ênfase em Dados e Machine Learning. 
 
 <br> <!-- Quebra de linha para espaçamento -->
 
@@ -40,7 +40,7 @@
 [![Download Admin Redes CV](https://img.shields.io/badge/⬇️%20Download%20PDF-purple?style=for-the-badge&logo=adobeacrobatreader&logoColor=white&labelColor=darkorchid&logoWidth=20)](https://github.com/chaos4455/CV/blob/main/2025/ELIAS%20DOS%20SANTOS%20DE%20ANDRADE%20-%20Administrador%20de%20Redes%2C%20Infraestrutura%20e%20Projetos%20de%20TI.pdf)
 
 <!-- Pequena descrição com emojis -->
-⚙️ Experiência em administração de redes, infraestrutura de TI e gestão de projetos. Perfeito para posições em infraestrutura e gerenciamento de TI.
+⚙️ Experiência em administração de redes, infraestrutura de TI e gestão de projetos. 
 
 <br> <!-- Quebra de linha para espaçamento -->
 
@@ -51,7 +51,7 @@
 [![Download Apresentação Comercial](https://img.shields.io/badge/⬇️%20Download%20PDF-purple?style=for-the-badge&logo=adobeacrobatreader&logoColor=white&labelColor=darkorchid&logoWidth=20)](https://github.com/chaos4455/CV/blob/main/2025/Apresenta%C3%A7%C3%A3o%20Comercial%20%E2%80%93%20Parceria%20e%20Solu%C3%A7%C3%B5es%20Estrat%C3%A9gicas%20em%20TI%20e%20Inova%C3%A7%C3%A3o.pdf)
 
 <!-- Pequena descrição com emojis -->
-💼 Apresentação comercial focada em parcerias e soluções estratégicas em TI e Inovação. Ideal para apresentar minhas capacidades e propostas de valor.
+💼 Apresentação comercial focada em parcerias e prestação de serviços para atuação com projetos estratégicos em TI e Inovação. 
 
 ---
 <!-- Linha horizontal para separar do restante do README (opcional) -->
