@@ -1,14 +1,5 @@
 # Elias Andrade - Experiência Profissional e Competências
 
-
-<!-- Título Principal da Seção de Currículos -->
-## 💜 MEUS CURRÍCULOS & APRESENTAÇÕES 💜
-
-<!-- Badge Grande Roxa Referenciando o Repositório Principal de CVs -->
-[![Repositório de Currículos](https://img.shields.io/badge/📁%20Repositório%20CVs-purple?style=for-the-badge&logo=github&logoColor=white&labelColor=darkorchid&logoWidth=20)](https://github.com/chaos4455/CV)
-
-<br> <!-- Quebra de linha para espaçamento -->
-
 <!-- Seção para o Currículo: Portfólio de Carreira (Geral) -->
 ### 💼 Portfólio de Carreira (Geral)
 
