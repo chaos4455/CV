@@ -1,5 +1,8 @@
 # Elias Andrade - Experiência Profissional e Competências
 
+![Image January 26, 2025 - 11 36PM](https://github.com/user-attachments/assets/946e32f1-7e91-4efc-937f-18fca6b7a007)
+
+
 <!-- Seção para o Currículo: Portfólio de Carreira (Geral) -->
 ### 💼 Portfólio de Carreira (Geral)
 
@@ -55,18 +58,6 @@
 
 ---
 <!-- Linha horizontal para separar do restante do README (opcional) -->
-
-**Observações:**
-
-*   **Cores Roxas:** Todos os badges e títulos utilizam variações de roxo (`purple`, `darkorchid`) para um visual temático.
-*   **Badges Grandes:**  O estilo `for-the-badge` do shields.io cria badges maiores e mais chamativos.
-*   **Ícones nos Badges:**  Ícones relevantes foram adicionados aos badges para identificação rápida do tipo de documento (download PDF, repositório).
-*   **Ícones e Emojis Adicionais:**  Ícones de [Icons8](https://icons8.com/) e emojis foram usados nas descrições para enriquecer visualmente e facilitar a leitura. Você pode substituir os ícones por emojis se preferir uma aparência mais simples ou usar emojis diferentes.
-*   **Comentários:**  O código está bem comentado para facilitar a compreensão e personalização.
-*   **Links Diretos:**  Todos os links apontam diretamente para os arquivos PDF no seu repositório, permitindo download imediato.
-*   **`logoWidth=20`:**  Este parâmetro nos badges shields.io ajusta o tamanho dos logos internos para melhor encaixe nos badges maiores.
-*   **`<br>`:**  Quebras de linha (`<br>`) foram adicionadas para criar espaçamento vertical e melhorar a organização visual.
-
 
 ## 🏢 Experiência Profissional recente 
 
@@ -755,3 +746,14 @@
 ## Gestão de Stakeholders e Comunicação 📣
 116. **Comunicação eficaz com stakeholders internos e externos.** ![Comunicação com Stakeholders](https://img.shields.io/badge/Comunicacao_com_Stakeholders-Experienced-yellowgreen)
 117. **Gestão de expectativas e alinhamento de objetivos.** ![Gestão de Expectativas](https://img.shields.io/badge/Gestao_de_Expectativas-Experienced-yellowgreen)
+
+<img width="427" alt="chrome_SEqBCHcbMt" src="https://github.com/user-attachments/assets/62c2b952-364e-4ef2-92e9-268bc8585b91" />
+
+<img width="1080" alt="chrome_RR6H9npSAr" src="https://github.com/user-attachments/assets/b0696cdc-18ff-4936-882c-80301ba376c8" />
+
+<img width="1117" alt="chrome_7lHt3gp0y4" src="https://github.com/user-attachments/assets/e8f646a3-d86d-40c9-81ba-b7b84c688d35" />
+
+<img width="1092" alt="chrome_guOOkLaj5q" src="https://github.com/user-attachments/assets/97d3ae61-ea1b-4afc-8b28-422112b7b51b" />
+
+<img width="1079" alt="chrome_RRFaNy97zP" src="https://github.com/user-attachments/assets/94abbc53-0985-4b7d-8dde-bfbfce35629d" />
+
