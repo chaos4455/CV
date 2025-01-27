@@ -1,5 +1,82 @@
 # Elias Andrade - Experiência Profissional e Competências
 
+
+<!-- Título Principal da Seção de Currículos -->
+## 💜 MEUS CURRÍCULOS & APRESENTAÇÕES 💜
+
+<!-- Badge Grande Roxa Referenciando o Repositório Principal de CVs -->
+[![Repositório de Currículos](https://img.shields.io/badge/📁%20Repositório%20CVs-purple?style=for-the-badge&logo=github&logoColor=white&labelColor=darkorchid&logoWidth=20)](https://github.com/chaos4455/CV)
+
+<br> <!-- Quebra de linha para espaçamento -->
+
+<!-- Seção para o Currículo: Portfólio de Carreira (Geral) -->
+### 💼 Portfólio de Carreira (Geral)
+
+<!-- Badge de Download Roxa Grande com Ícone e Link Direto para o PDF -->
+[![Download Portfólio Geral](https://img.shields.io/badge/⬇️%20Download%20PDF-purple?style=for-the-badge&logo=adobeacrobatreader&logoColor=white&labelColor=darkorchid&logoWidth=20)](https://github.com/chaos4455/CV/blob/main/2025/Portf%C3%B3lio%20de%20carreira%20-%20Elias%20Andrade.pdf)
+
+<!-- Pequena descrição com emojis -->
+✨ Currículo abrangente com foco na minha trajetória profissional e habilidades diversas. Ideal para uma visão geral da minha experiência.
+
+<br> <!-- Quebra de linha para espaçamento -->
+
+<!-- Seção para o Currículo: Data Specialist -->
+### 📊 Currículo - Data Specialist
+
+<!-- Badge de Download Roxa Grande com Ícone e Link Direto para o PDF -->
+[![Download Data Specialist CV](https://img.shields.io/badge/⬇️%20Download%20PDF-purple?style=for-the-badge&logo=adobeacrobatreader&logoColor=white&labelColor=darkorchid&logoWidth=20)](https://github.com/chaos4455/CV/blob/main/2025/Elias%20dos%20Santos%20de%20Andrade%20-%20DATA%20Specialist%20(1).pdf)
+
+<!-- Pequena descrição com emojis -->
+<img src="https://img.icons8.com/color/24/000000/data-analytics.png" width="20" height="20" alt="Ícone Data"/>  Focado na área de Data Science, Data Analytics e Engenharia de Dados. Demonstra minhas competências em análise e manipulação de dados.
+
+<br> <!-- Quebra de linha para espaçamento -->
+
+<!-- Seção para o Currículo: Analista de Inovação (Dados e Machine Learning) -->
+### 💡 Currículo - Analista de Inovação (Dados & ML)
+
+<!-- Badge de Download Roxa Grande com Ícone e Link Direto para o PDF -->
+[![Download Analista Inovação CV](https://img.shields.io/badge/⬇️%20Download%20PDF-purple?style=for-the-badge&logo=adobeacrobatreader&logoColor=white&labelColor=darkorchid&logoWidth=20)](https://github.com/chaos4455/CV/blob/main/2025/Elias%20dos%20Santos%20de%20Andrade%20-%20Analista%20de%20inova%C3%A7%C3%A3o%20-%20Dados%20e%20Machine%20Learning%20(1).pdf)
+
+<!-- Pequena descrição com emojis -->
+🚀 Direcionado para Inovação, com ênfase em Dados e Machine Learning. Ideal para oportunidades que buscam soluções inovadoras baseadas em dados.
+
+<br> <!-- Quebra de linha para espaçamento -->
+
+<!-- Seção para o Currículo: Administrador de Redes, Infraestrutura e Projetos de TI -->
+### 💻 Currículo - Admin. Redes, Infra & Projetos TI
+
+<!-- Badge de Download Roxa Grande com Ícone e Link Direto para o PDF -->
+[![Download Admin Redes CV](https://img.shields.io/badge/⬇️%20Download%20PDF-purple?style=for-the-badge&logo=adobeacrobatreader&logoColor=white&labelColor=darkorchid&logoWidth=20)](https://github.com/chaos4455/CV/blob/main/2025/ELIAS%20DOS%20SANTOS%20DE%20ANDRADE%20-%20Administrador%20de%20Redes%2C%20Infraestrutura%20e%20Projetos%20de%20TI.pdf)
+
+<!-- Pequena descrição com emojis -->
+⚙️ Experiência em administração de redes, infraestrutura de TI e gestão de projetos. Perfeito para posições em infraestrutura e gerenciamento de TI.
+
+<br> <!-- Quebra de linha para espaçamento -->
+
+<!-- Seção para a Apresentação Comercial: Parceria e Soluções Estratégicas em TI e Inovação -->
+### 🤝 Apresentação Comercial - Parcerias e Soluções TI
+
+<!-- Badge de Download Roxa Grande com Ícone e Link Direto para o PDF -->
+[![Download Apresentação Comercial](https://img.shields.io/badge/⬇️%20Download%20PDF-purple?style=for-the-badge&logo=adobeacrobatreader&logoColor=white&labelColor=darkorchid&logoWidth=20)](https://github.com/chaos4455/CV/blob/main/2025/Apresenta%C3%A7%C3%A3o%20Comercial%20%E2%80%93%20Parceria%20e%20Solu%C3%A7%C3%B5es%20Estrat%C3%A9gicas%20em%20TI%20e%20Inova%C3%A7%C3%A3o.pdf)
+
+<!-- Pequena descrição com emojis -->
+💼 Apresentação comercial focada em parcerias e soluções estratégicas em TI e Inovação. Ideal para apresentar minhas capacidades e propostas de valor.
+
+---
+<!-- Linha horizontal para separar do restante do README (opcional) -->
+
+**Observações:**
+
+*   **Cores Roxas:** Todos os badges e títulos utilizam variações de roxo (`purple`, `darkorchid`) para um visual temático.
+*   **Badges Grandes:**  O estilo `for-the-badge` do shields.io cria badges maiores e mais chamativos.
+*   **Ícones nos Badges:**  Ícones relevantes foram adicionados aos badges para identificação rápida do tipo de documento (download PDF, repositório).
+*   **Ícones e Emojis Adicionais:**  Ícones de [Icons8](https://icons8.com/) e emojis foram usados nas descrições para enriquecer visualmente e facilitar a leitura. Você pode substituir os ícones por emojis se preferir uma aparência mais simples ou usar emojis diferentes.
+*   **Comentários:**  O código está bem comentado para facilitar a compreensão e personalização.
+*   **Links Diretos:**  Todos os links apontam diretamente para os arquivos PDF no seu repositório, permitindo download imediato.
+*   **`logoWidth=20`:**  Este parâmetro nos badges shields.io ajusta o tamanho dos logos internos para melhor encaixe nos badges maiores.
+*   **`<br>`:**  Quebras de linha (`<br>`) foram adicionadas para criar espaçamento vertical e melhorar a organização visual.
+
+
 ## 🏢 Experiência Profissional recente 
 
  🛠️ **Konecty**
