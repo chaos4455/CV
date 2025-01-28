@@ -2,7 +2,7 @@
 
 ![Image January 26, 2025 - 11 36PM](https://github.com/user-attachments/assets/946e32f1-7e91-4efc-937f-18fca6b7a007)
 
-<img width="1443" alt="ImageGlass_DQeHrtyQKI" src="https://github.com/user-attachments/assets/a2fc339d-c1f9-40b8-9c83-85d86c56ae46" />
+<img width="1442" alt="ImageGlass_gLhTSusu4P" src="https://github.com/user-attachments/assets/e60e842f-8cf4-4c60-b58e-3d0384f5e236" />
 
 
 <!-- Seção para o Currículo: Portfólio de Carreira (Geral) -->
