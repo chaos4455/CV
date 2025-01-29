@@ -1,7 +1,5 @@
 # Elias Andrade - Experiência Profissional e Competências
 
-![Image January 26, 2025 - 11 36PM](https://github.com/user-attachments/assets/946e32f1-7e91-4efc-937f-18fca6b7a007)
-
 <img width="1442" alt="ImageGlass_gLhTSusu4P" src="https://github.com/user-attachments/assets/e60e842f-8cf4-4c60-b58e-3d0384f5e236" />
 
 
